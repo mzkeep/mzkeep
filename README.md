@@ -14,7 +14,7 @@ A full stack developer, and the creator of ModStart.
 - ⚡ **[ProcHub](https://github.com/modstart-lib/prochub)** — A lightweight visual process manager to streamline local service management and debugging.
 - 💻 **[simple-file-server](https://github.com/modstart-lib/simple-file-server)** — A fast, simple static file server built with Go and Gin.
 - 🔄 **[syncthing-relaysrv-ctl](https://github.com/modstart-lib/syncthing-relaysrv-ctl)** — An auto-deploy script and controller for Syncthing Relay Servers.
-- 🌐 Find more open source projects at **[open.modstart.com](https://open.modstart.com)**.
+- 🌐 Find more open source projects at **[open.tecmz.com](https://open.tecmz.com)**.
 
 I'm obsessed with developer experience and product innovation ✨, and I aim to open source as much of my technology stack as possible.
 
